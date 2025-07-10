@@ -1,1 +1,2 @@
 TOKEN = "6987240194:AAGiUCv3BkqBk0xMLULTRTj9lT4W9uTDA4c"
+Admin_id = '6724242213'  # Hamroyev Jo'rabek
